@@ -23,7 +23,7 @@ Footer text spacing + font size + text background + color combination
 Changes made:
 
 - Changed font color from white to black
-  File path:
+File path:
 - internetshutdowns.in/static/css/footer.css
 
 ```bash
@@ -37,7 +37,7 @@ Hyperlink issues in same tab
 changes made:
 
 - hyperlink in Resource:policy traks "reade more" links in another tab
-  File path:
+File path:
 - internetshutdowns.in/resources/templates/resource/policy-tracker.html
 
 ```bash
@@ -51,7 +51,7 @@ Inconsistent font size and style, text spacing, links opening in a same tab
 Changes made:
 
 - added font size for description and changed links opening in same tab
-  File path:
+File path:
 - internetshutdowns.in/resources/templates/resources/litigate.html
 - internetshutdowns.in/static/litigation/litigation.css
 
@@ -72,7 +72,7 @@ Spacing of a text
 Changes made:
 
 - changed spacing issues in "share your experience form"
-  File path:
+File path:
 - internetshutdowns.in/static/css/indexfile.css
 
 ```bash
